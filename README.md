@@ -19,7 +19,7 @@
 - [![kOS Autopilot](https://img.shields.io/badge/kOS-Rocket_Landing_(WIP)-orange?style=flat&logo=spacex&logoColor=white)](#)
 **Полностью автоматизированный универсальный скрипт посадки ракеты (WIP)**
   Написан на kOS.
-- [![Авточекер Госуслуг](https://img.shields.io/badge/Gosuslugi-Slot_Checker-blue?style=flat&logo=python&logoColor=white)]([#](https://github.com/poseidk/gu-autocheck))
+- [![Авточекер Госуслуг](https://img.shields.io/badge/Gosuslugi-Slot_Checker-blue?style=flat&logo=python&logoColor=white)](https://github.com/poseidk/gu-autocheck)
 **Авточекер госуслуг на наличие свободных ячеек для сдачи на права.**
   Написан на Python. Использовал httpx, requests, asyncio, selenium и адаптировал для работы в фоновом режиме на мобильном устройстве.
   Сам автоматически обновляет токен логина, то есть скрипт работает без остановок. 
